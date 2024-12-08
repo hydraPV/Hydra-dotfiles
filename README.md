@@ -1,6 +1,6 @@
 # Dotfiles #
 
-<details open>
+<details>
   <sumary><h2>Screenshots</h2></sumary>
   <br>
   
