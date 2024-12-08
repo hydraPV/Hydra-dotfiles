@@ -1,5 +1,6 @@
 # Dotfiles #
-<details> Screenshots <closed>
+<details closed>
+  <sumary><h2>Screenshots</h2></sumary>
   <br>
   
 ![image](https://github.com/user-attachments/assets/333512ba-c4f7-4b72-9b00-56f5466a7b7d)
