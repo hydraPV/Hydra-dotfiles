@@ -1,0 +1,49 @@
+#! /bin/sh
+
+# Autostart
+sxhkd &
+bash ~/.config/polybar/launch.sh
+feh --bg-scale /home/hydra/.config/wallpapers/wallpaper7.jpg
+kitty &
+setxkbmap -layout es 
+picom &
+pgrep -x sxhkd > /dev/null || sxhkd &
+polybar &
+
+
+# Workspaces
+bspc monitor  I II III IV V VI
+
+
+# Padding config
+bspc config top_padding        -5
+bspc config bottom_padding     0
+bspc config left_padding       0
+bspc config right_padding      0
+
+
+# Border config
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+bspc config border_width         1
+bspc config focused_border_color "#8fbcbb"
+bscp config normal_border_color "#00FFFFFF"
+
+
+# Split config
+bspc config window_gap          15
+bspc config split_ratio          0.55
+
+
+# Focusing config
+bspc config focus_follows_pointer false
+bspc config history_aware_focus true
+bspc config focus_by_distance true
+
+
+# Rules
+bspc rule -a thunar floating=on
+bspc rule -a Gimp desktop='^8' state=floatie=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
