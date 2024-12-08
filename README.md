@@ -1,4 +1,4 @@
-#Dotfiles#
+# Dotfiles #
 <details closed>
   <br>
   
@@ -11,6 +11,11 @@
 #
 #
 ![image](https://github.com/user-attachments/assets/044f3516-379c-40dd-91b3-22716f23ccf1)
+#
+#
+#
+![image](https://github.com/user-attachments/assets/afe4d70c-671c-4098-9334-a247d6da9603)
+
 
 </details>
 
