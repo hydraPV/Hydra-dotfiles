@@ -1,3 +1,6 @@
+vim.opt.number = true
+vim.opt.relativenumber = false
+
 
 local vim = vim
 local Plug = vim.fn['plug#']
