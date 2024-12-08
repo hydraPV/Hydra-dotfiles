@@ -2,8 +2,8 @@
 <details closed>
   <br>
   
-![image](https://github.com/user-attachments/assets/e1829be7-82fe-413e-981a-514ddc165b3b)
-#
+![image](https://github.com/user-attachments/assets/333512ba-c4f7-4b72-9b00-56f5466a7b7d)
+[(ascii art)](https://gist.github.com/kevinfengcs88/75457d6b401fbab2326450dcbf64a429)
 #
 #
 ![image](https://github.com/user-attachments/assets/486c48b6-9f98-4c40-a2cf-f561a5daecb1)
